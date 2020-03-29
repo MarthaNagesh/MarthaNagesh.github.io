@@ -1,0 +1,22 @@
+.experience{
+    width: 100%;
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.experience ul{
+    margin-top: 20px;
+}
+.experience li{
+    list-style: square;
+    font-size: 20px;
+}
+.experience li:hover{
+    margin-bottom: 9px;
+    margin-top: 5px;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+    color: white;
+}
