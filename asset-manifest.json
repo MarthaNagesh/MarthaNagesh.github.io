@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/MarthaNagesh.github.io/static/css/main.9de3da4b.chunk.css",
-    "main.js": "/MarthaNagesh.github.io/static/js/main.b8eccd10.chunk.js",
-    "main.js.map": "/MarthaNagesh.github.io/static/js/main.b8eccd10.chunk.js.map",
-    "runtime-main.js": "/MarthaNagesh.github.io/static/js/runtime-main.fe89881e.js",
-    "runtime-main.js.map": "/MarthaNagesh.github.io/static/js/runtime-main.fe89881e.js.map",
-    "static/css/2.17e5ed98.chunk.css": "/MarthaNagesh.github.io/static/css/2.17e5ed98.chunk.css",
-    "static/js/2.df698a28.chunk.js": "/MarthaNagesh.github.io/static/js/2.df698a28.chunk.js",
-    "static/js/2.df698a28.chunk.js.map": "/MarthaNagesh.github.io/static/js/2.df698a28.chunk.js.map",
-    "index.html": "/MarthaNagesh.github.io/index.html",
-    "precache-manifest.c93e0b5edf32065880779fa3c95c2525.js": "/MarthaNagesh.github.io/precache-manifest.c93e0b5edf32065880779fa3c95c2525.js",
-    "service-worker.js": "/MarthaNagesh.github.io/service-worker.js",
-    "static/css/2.17e5ed98.chunk.css.map": "/MarthaNagesh.github.io/static/css/2.17e5ed98.chunk.css.map",
-    "static/css/main.9de3da4b.chunk.css.map": "/MarthaNagesh.github.io/static/css/main.9de3da4b.chunk.css.map",
-    "static/js/2.df698a28.chunk.js.LICENSE": "/MarthaNagesh.github.io/static/js/2.df698a28.chunk.js.LICENSE",
-    "static/media/img.JPG": "/MarthaNagesh.github.io/static/media/img.04668d36.JPG"
+    "main.css": "/MarthaNagesh/static/css/main.9de3da4b.chunk.css",
+    "main.js": "/MarthaNagesh/static/js/main.d6aaf8ad.chunk.js",
+    "main.js.map": "/MarthaNagesh/static/js/main.d6aaf8ad.chunk.js.map",
+    "runtime-main.js": "/MarthaNagesh/static/js/runtime-main.dd07bcd4.js",
+    "runtime-main.js.map": "/MarthaNagesh/static/js/runtime-main.dd07bcd4.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/MarthaNagesh/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.df698a28.chunk.js": "/MarthaNagesh/static/js/2.df698a28.chunk.js",
+    "static/js/2.df698a28.chunk.js.map": "/MarthaNagesh/static/js/2.df698a28.chunk.js.map",
+    "index.html": "/MarthaNagesh/index.html",
+    "precache-manifest.c5c3b15f1ab0fe5ba478eaa5c873e44b.js": "/MarthaNagesh/precache-manifest.c5c3b15f1ab0fe5ba478eaa5c873e44b.js",
+    "service-worker.js": "/MarthaNagesh/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/MarthaNagesh/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.9de3da4b.chunk.css.map": "/MarthaNagesh/static/css/main.9de3da4b.chunk.css.map",
+    "static/js/2.df698a28.chunk.js.LICENSE": "/MarthaNagesh/static/js/2.df698a28.chunk.js.LICENSE",
+    "static/media/img.JPG": "/MarthaNagesh/static/media/img.04668d36.JPG"
   },
   "entrypoints": [
-    "static/js/runtime-main.fe89881e.js",
+    "static/js/runtime-main.dd07bcd4.js",
     "static/css/2.17e5ed98.chunk.css",
     "static/js/2.df698a28.chunk.js",
     "static/css/main.9de3da4b.chunk.css",
-    "static/js/main.b8eccd10.chunk.js"
+    "static/js/main.d6aaf8ad.chunk.js"
   ]
 }
